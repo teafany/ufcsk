@@ -28,6 +28,7 @@ import Angelica from '../../assets/avatars/2026-board/angelica-tang.png';
 import Aashita from '../../assets/avatars/2026-board/aashita-rai.PNG';
 //director of public relations
 import Mishka from '../../assets/avatars/2026-board/mishka-sonavadeka.jpg';
+import Tiffany from '../../assets/avatars/2026-board/tiffany-chen.PNG';
 // director of professional development
 import Thuy from '../../assets/avatars/crystal-le.jpg';
 // co-director of events
@@ -131,6 +132,13 @@ export default function Board() {
       blurb: 'Computer Science',
       avatar: Mishka,
       linkedin: 'https://www.linkedin.com/in/mishka-sonavadekar/'
+    },
+    {
+      name: 'Tiffany Chen',
+      position: 'Director of Public Relations',
+      blurb: 'Computer Science',
+      avatar: Tiffany,
+      linkedin: 'https://www.linkedin.com/in/ttiffanychen/'
     },
     {
       name: 'Thuy Le',
